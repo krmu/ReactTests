@@ -10,7 +10,7 @@ class Sakumlapa extends React.Component {
         <div className="row">
           <div className="col-lg-4 d-flex align-items-stretch">
             <div className="card">
-              <img src="./mediji/reactlogo.png" className="card-img-top p-2" />
+              <img src="https://github.com/krmu/ReactTests/blob/main/mediji/reactlogo.png" className="card-img-top p-2" />
               <div className="card-body">
                 <h5 className="card-title">React</h5>
             </div>
