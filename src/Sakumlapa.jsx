@@ -10,7 +10,7 @@ class Sakumlapa extends React.Component {
         <div className="row">
           <div className="col-lg-4 d-flex align-items-stretch">
             <div className="card">
-              <img src="https://github.com/krmu/ReactTests/blob/main/mediji/reactlogo.png" className="card-img-top p-2" />
+              <img src="https://raw.githubusercontent.com/krmu/ReactTests/main/mediji/reactlogo.png" className="card-img-top p-2" />
               <div className="card-body">
                 <h5 className="card-title">React</h5>
             </div>
@@ -18,7 +18,7 @@ class Sakumlapa extends React.Component {
           </div>
           <div className="col-lg-4 d-flex align-items-stretch">
             <div className="card">
-              <img src="./mediji/vitelogo.png" className="card-img-top p-2" />
+              <img src="https://raw.githubusercontent.com/krmu/ReactTests/main/mediji/vitelogo.png" className="card-img-top p-2" />
               <div className="card-body">
                 <h5 className="card-title">Vite</h5>
               </div>
@@ -26,7 +26,7 @@ class Sakumlapa extends React.Component {
           </div>
           <div className="col-lg-4 d-flex align-items-stretch">
             <div className="card">
-              <img src="./mediji/typescript.png" className="card-img-top p-2" />
+              <img src="https://raw.githubusercontent.com/krmu/ReactTests/main/mediji/typescript.png" className="card-img-top p-2" />
               <div className="card-body">
                 <h5 className="card-title">TypeScript</h5>
               </div>
